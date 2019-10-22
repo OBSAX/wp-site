@@ -1,0 +1,162 @@
+/*
+Theme Name:     Tusant Secondline
+Template:       Tusant Secondline
+
+Right to Left text support.
+*/
+
+body {
+	direction: rtl;
+}
+
+body .wp-audio-shortcode {
+    direction: ltr;
+}
+
+
+body .single-column-slt .secondline-themes-feaured-image {
+	float: right;
+	text-align: right;
+	border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+
+body .single-column-slt .secondline-blog-content {
+	float: left;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+
+body footer#site-footer ul, .sidebar ul {
+	text-align: right;
+}
+
+
+body .mc4wp-form input {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+	border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+body .mc4wp-form input[type="submit"] {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+	border-top-right-radius: 0;
+    border-bottom-right-radius: 0;	
+	margin-left: 0;
+    margin-right: -5px;
+}
+
+body footer#site-footer ul li:before, body .sf-arrows ul .sf-with-ul:after, body .sidebar ul li:before {
+	content: "\f104";
+}
+
+body .search-form input.search-field {
+	background-position: 15px 13px;
+}
+
+body .sidebar ul li {
+    padding: 0px 20px 12px 0;
+}
+
+body footer#site-footer ul li {
+	padding: 0 26px 0 0;
+}
+
+body footer#site-footer ul li:before {
+	top: 0;
+}
+
+body .sidebar ul li:before, body footer#site-footer ul li:before {
+	left: auto;
+	right: 0;
+}
+
+body span.show-meta-host img {
+    float: right;
+    margin-right: 0;
+    margin-left: 25px;
+}
+
+#page-title-slt-show-page .show-header-info.grid3columnbig-secondline.lastcolumn-secondline {
+    float: left;
+}
+
+#show-post-title-meta-container .grid3column-secondline {
+    float: right;
+}
+
+body #page-title-slt-show-page .show-header-info, .alt-secondline-post-meta {
+    text-align: right;
+}
+
+body blockquote {
+	border-left: 0;
+	border-right-width: 4px;
+	border-right-style: solid;
+	padding-left: 0;
+	padding-right: 30px;
+}
+
+body .post-list-player-container-secondline, body .single-player-container-secondline {
+    direction: ltr;
+}
+
+body #main-container-secondline .single-column-slt .secondline-themes-feaured-image img, body #main-container-secondline .secondline-themes-default-blog-index .single-column-slt .secondline-themes-feaured-image img {    
+    border-top-right-radius: 4px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 4px;
+}
+
+
+body .mejs-container, body .single-player-container-secondline, body .post-list-player-container-secondline {
+    direction: ltr !important;    
+}
+
+
+@media screen and (min-width: 1200px) {
+    body #main-container-secondline .secondline-themes-post-list-main .single-column-slt .mejs-container {
+        width: 85% !important;
+        margin-right: 15% !important;
+    }
+}
+
+
+@media screen and (min-width: 1000px) {
+    body.single-post #main-container-secondline #page-title-slt-post-page .mejs-container, 
+    body #main-container-secondline .secondline-slt-elementor-post-item .mejs-container, 
+    body #main-container-secondline .secondline-themes-post-slider-main .mejs-container {
+        width: 90% !important;
+        margin-right: 10% !important;
+    }
+}
+
+
+body .woocommerce-product-gallery {
+  direction: ltr;
+}
+
+body #secondline-woocommerce-single-bottom .woocommerce-tabs ul.wc-tabs {
+  text-align: right;
+}
+
+body.single-product #content-slt .type-product span.onsale {
+  left: auto;
+  right: 20px;
+}
+
+body .elementor-widget-wp-widget-recent-posts ul, body .elementor-widget-wp-widget-recent-podcast-episodes ul {
+	text-align: right;
+}
+
+body .wpcf7, body .wpcf7 input, body .wpcf7 textarea {
+    text-align: right;
+}

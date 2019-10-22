@@ -1,0 +1,3036 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Tusant SecondLine\n"
+"POT-Creation-Date: 2019-02-14 12:08+0200\n"
+"PO-Revision-Date: 2019-02-14 12:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:13
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:17 archive.php:21 author.php:20 index.php:28 page.php:20
+#: search.php:18
+msgid "Home"
+msgstr ""
+
+#: 404.php:27
+msgid "Oops! This page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:28
+msgid ""
+"Sorry, We couldn&rsquo;t find the page you&rsquo;re looking for. Maybe Try "
+"one of the links in the navigation or a search."
+msgstr ""
+
+#: author.php:16 inc/default-customizer.php:1689
+#: inc/default-customizer.php:1932
+msgid "Author"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid ""
+"<span class=\"comment-count-title\">One comment</span> on &ldquo;%2$s&rdquo;"
+msgid_plural "<span class=\"comment-count-title\">%1$s comments</span> on %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:64
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: footer-icons.php:7 header/header-icons.php:9 header/mobile-navigation.php:6
+msgid "Facebook"
+msgstr ""
+
+#: footer-icons.php:8 header/header-icons.php:10 header/mobile-navigation.php:7
+msgid "Twitter"
+msgstr ""
+
+#: footer-icons.php:9 header/header-icons.php:11 header/mobile-navigation.php:8
+msgid "Instagram"
+msgstr ""
+
+#: footer-icons.php:10 header/header-icons.php:12
+#: header/mobile-navigation.php:9
+msgid "Spotify"
+msgstr ""
+
+#: footer-icons.php:11 header/header-icons.php:13
+#: header/mobile-navigation.php:10
+msgid "Youtube"
+msgstr ""
+
+#: footer-icons.php:12 header/header-icons.php:14
+#: header/mobile-navigation.php:11
+msgid "Vimeo"
+msgstr ""
+
+#: footer-icons.php:13 header/header-icons.php:15
+#: header/mobile-navigation.php:12
+msgid "RSS"
+msgstr ""
+
+#: footer-icons.php:14 header/header-icons.php:16
+#: header/mobile-navigation.php:13
+msgid "Podcast"
+msgstr ""
+
+#: footer-icons.php:15 header/header-icons.php:17
+#: header/mobile-navigation.php:14
+msgid "Android"
+msgstr ""
+
+#: footer-icons.php:16 header/header-icons.php:18
+#: header/mobile-navigation.php:15
+msgid "Google+"
+msgstr ""
+
+#: footer-icons.php:17 header/header-icons.php:19
+#: header/mobile-navigation.php:16
+msgid "Patreon"
+msgstr ""
+
+#: footer-icons.php:18 header/header-icons.php:20
+#: header/mobile-navigation.php:17
+msgid "Pinterest"
+msgstr ""
+
+#: footer-icons.php:19 header/header-icons.php:21
+#: header/mobile-navigation.php:18
+msgid "Soundcloud"
+msgstr ""
+
+#: footer-icons.php:20 header/header-icons.php:22
+#: header/mobile-navigation.php:19
+msgid "LinkedIn"
+msgstr ""
+
+#: footer-icons.php:21 header/header-icons.php:23
+#: header/mobile-navigation.php:20
+msgid "Snapchat"
+msgstr ""
+
+#: footer-icons.php:22 header/header-icons.php:24
+#: header/mobile-navigation.php:21
+msgid "Tumblr"
+msgstr ""
+
+#: footer-icons.php:23 header/header-icons.php:25
+#: header/mobile-navigation.php:22
+msgid "Flickr"
+msgstr ""
+
+#: footer-icons.php:24 header/header-icons.php:26
+#: header/mobile-navigation.php:23
+msgid "Dribbble"
+msgstr ""
+
+#: footer-icons.php:25 header/header-icons.php:27
+#: header/mobile-navigation.php:24
+msgid "VK"
+msgstr ""
+
+#: footer-icons.php:26 header/header-icons.php:28
+#: header/mobile-navigation.php:25
+msgid "WordPress"
+msgstr ""
+
+#: footer-icons.php:27 header/header-icons.php:30
+#: header/mobile-navigation.php:27
+msgid "MixCloud"
+msgstr ""
+
+#: footer-icons.php:28 header/header-icons.php:31
+#: header/mobile-navigation.php:28
+msgid "Behance"
+msgstr ""
+
+#: footer-icons.php:29
+msgid "GitHub"
+msgstr ""
+
+#: footer-icons.php:29 header/header-icons.php:32
+#: header/mobile-navigation.php:29
+msgid "Github"
+msgstr ""
+
+#: footer-icons.php:30 header/header-icons.php:33
+#: header/mobile-navigation.php:30
+msgid "LastFM"
+msgstr ""
+
+#: footer-icons.php:31 header/header-icons.php:34
+#: header/mobile-navigation.php:31
+msgid "Medium"
+msgstr ""
+
+#: footer-icons.php:32 header/header-icons.php:35
+msgid "Reddit"
+msgstr ""
+
+#: footer-icons.php:33 header/header-icons.php:36
+#: header/mobile-navigation.php:32
+msgid "Trip Advisor"
+msgstr ""
+
+#: footer-icons.php:34 header/header-icons.php:37
+#: header/mobile-navigation.php:33
+msgid "Twitch"
+msgstr ""
+
+#: footer-icons.php:35 header/header-icons.php:38
+#: header/mobile-navigation.php:34
+msgid "Yelp"
+msgstr ""
+
+#: footer-icons.php:37 header/header-icons.php:40
+#: header/mobile-navigation.php:36
+msgid "Email"
+msgstr ""
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:62
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:63
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:120
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:121
+msgid "Default sidebar area"
+msgstr ""
+
+#: functions.php:130 inc/default-customizer.php:2336
+msgid "Show Post Sidebar"
+msgstr ""
+
+#: functions.php:131
+msgid "Sidebar on single show pages"
+msgstr ""
+
+#: functions.php:140
+msgid "Mobile/Tablet Sidebar"
+msgstr ""
+
+#: functions.php:141
+msgid "Mobile/Tablet sidebar"
+msgstr ""
+
+#: functions.php:150 functions.php:151 inc/default-customizer.php:2624
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:205
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:221
+msgid "White"
+msgstr ""
+
+#: functions.php:226
+msgid "Black"
+msgstr ""
+
+#: functions.php:231
+msgid "Dark Gray"
+msgstr ""
+
+#: functions.php:236
+msgid "Light Red"
+msgstr ""
+
+#: functions.php:241
+msgid "Darker Gray"
+msgstr ""
+
+#: functions.php:246
+msgid "Light Gray"
+msgstr ""
+
+#: functions.php:251
+msgid "Main Button Background"
+msgstr ""
+
+#: functions.php:256
+msgid "Main Button Background Hover"
+msgstr ""
+
+#: header/header-icons.php:39
+msgid "Discord"
+msgstr ""
+
+#: header/header-icons.php:41 header/mobile-navigation.php:38
+msgid "Wishlist"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:13
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:21
+msgid "Sub-Navigation"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:30
+msgid "Body Main"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:39
+msgid "Page Title"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:47
+msgid "Shows Typography"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:55
+msgid "Footer Main"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:63 inc/default-customizer.php:3391
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:72
+#: inc/customizer/typography-controls.php:368
+msgid "Footer Navigation"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:83
+msgid "H1-H6 Headings"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:94
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:102
+msgid "Button Styles"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:113
+msgid "Post Archive Styles"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:121
+msgid "Post Options"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:129
+msgid "Post Styles"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:178
+msgid "Body Font"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:195
+msgid "Navigation Font Family"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:210
+msgid "Sub-Navigation Font Family"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:222
+msgid "Page Title Font"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:234
+msgid "Page Sub-Title Font"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:247
+msgid "Heading 1"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:259
+msgid "Heading 2"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:271
+msgid "Heading 3"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:283
+msgid "Heading 4"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:295
+msgid "Heading 5"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:307
+msgid "Heading 6"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:321
+msgid "Footer Main Font"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:332
+msgid "Footer Link"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:344
+msgid "Footer Link Hover"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:356
+msgid "Copyright Font"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:379
+msgid "Footer Navigation Hover"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:391
+msgid "Footer Widget Heading"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:404
+msgid "Button Font Family"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:417 inc/default-customizer.php:1764
+#: inc/default-customizer.php:1987
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:429
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:441
+msgid "Meta and Date"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:452
+msgid "Meta Link"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:465
+msgid "Post Title"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:476
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:492
+msgid "Sidebar Default Text"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:505
+msgid "Sidebar Heading"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:517
+msgid "Sidebar Default Link"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:529
+msgid "Sidebar Link Hover"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:542
+msgid "Show Title"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:553
+msgid "Hosted By Font"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:564
+msgid "Host Name Font"
+msgstr ""
+
+#: inc/customizer/typography-controls.php:575
+msgid "Show Excerpt Font"
+msgstr ""
+
+#: inc/default-customizer.php:35
+msgid "General"
+msgstr ""
+
+#: inc/default-customizer.php:42
+msgid "General Options"
+msgstr ""
+
+#: inc/default-customizer.php:55
+msgid "Site Width(%)"
+msgstr ""
+
+#: inc/default-customizer.php:72
+msgid "Mouse Selection Color"
+msgstr ""
+
+#: inc/default-customizer.php:85
+msgid "Mouse Selection Background"
+msgstr ""
+
+#: inc/default-customizer.php:98
+msgid "Header"
+msgstr ""
+
+#: inc/default-customizer.php:105
+msgid "Logo"
+msgstr ""
+
+#: inc/default-customizer.php:128
+msgid "Logo Width (px)"
+msgstr ""
+
+#: inc/default-customizer.php:144
+msgid "Logo Margin Top (px)"
+msgstr ""
+
+#: inc/default-customizer.php:160
+msgid "Logo Margin Bottom (px)"
+msgstr ""
+
+#: inc/default-customizer.php:178
+msgid "Logo Position"
+msgstr ""
+
+#: inc/default-customizer.php:182 inc/default-customizer.php:1077
+#: inc/default-customizer.php:1556 inc/default-customizer.php:1900
+#: inc/default-customizer.php:2340 inc/default-customizer.php:2609
+#: inc/default-customizer.php:2768 inc/default-customizer.php:3462
+msgid "Left"
+msgstr ""
+
+#: inc/default-customizer.php:183
+msgid "Center (Block)"
+msgstr ""
+
+#: inc/default-customizer.php:184 inc/default-customizer.php:1079
+#: inc/default-customizer.php:1557 inc/default-customizer.php:1901
+#: inc/default-customizer.php:2341 inc/default-customizer.php:2611
+#: inc/default-customizer.php:2770 inc/default-customizer.php:3464
+msgid "Right"
+msgstr ""
+
+#: inc/default-customizer.php:193
+msgid "Header Options"
+msgstr ""
+
+#: inc/default-customizer.php:206
+msgid "Header Layout"
+msgstr ""
+
+#: inc/default-customizer.php:210
+msgid "Wide"
+msgstr ""
+
+#: inc/default-customizer.php:211
+msgid "Full-Width"
+msgstr ""
+
+#: inc/default-customizer.php:212 inc/default-customizer.php:317
+#: inc/default-customizer.php:1595 inc/default-customizer.php:2520
+msgid "Default"
+msgstr ""
+
+#: inc/default-customizer.php:224
+msgid "Floating Header"
+msgstr ""
+
+#: inc/default-customizer.php:228
+msgid "Enabled"
+msgstr ""
+
+#: inc/default-customizer.php:229
+msgid "Disabled"
+msgstr ""
+
+#: inc/default-customizer.php:242
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:253
+msgid "Header Border Bottom Color"
+msgstr ""
+
+#: inc/default-customizer.php:266
+msgid "Header Background Image"
+msgstr ""
+
+#: inc/default-customizer.php:280 inc/default-customizer.php:284
+#: inc/default-customizer.php:1395 inc/default-customizer.php:1399
+#: inc/default-customizer.php:1476 inc/default-customizer.php:1856
+#: inc/default-customizer.php:2115 inc/default-customizer.php:2569
+msgid "Image Cover"
+msgstr ""
+
+#: inc/default-customizer.php:285 inc/default-customizer.php:1400
+#: inc/default-customizer.php:1477 inc/default-customizer.php:1857
+#: inc/default-customizer.php:2116 inc/default-customizer.php:2570
+msgid "Image Pattern"
+msgstr ""
+
+#: inc/default-customizer.php:297
+msgid "Tablet/Mobile Header Options"
+msgstr ""
+
+#: inc/default-customizer.php:312
+msgid "Tablet/Mobile Header Transparent"
+msgstr ""
+
+#: inc/default-customizer.php:316
+msgid "Transparent"
+msgstr ""
+
+#: inc/default-customizer.php:328
+msgid "Tablet/Mobile Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:341
+msgid "Display \"Menu\" text for Menu"
+msgstr ""
+
+#: inc/default-customizer.php:345 inc/default-customizer.php:363
+#: inc/default-customizer.php:379 inc/default-customizer.php:1693
+#: inc/default-customizer.php:1712 inc/default-customizer.php:1731
+#: inc/default-customizer.php:1749 inc/default-customizer.php:1768
+#: inc/default-customizer.php:1918 inc/default-customizer.php:1936
+#: inc/default-customizer.php:1955 inc/default-customizer.php:1972
+#: inc/default-customizer.php:1991 inc/default-customizer.php:2369
+#: inc/default-customizer.php:2386 inc/default-customizer.php:2418
+msgid "Display"
+msgstr ""
+
+#: inc/default-customizer.php:346 inc/default-customizer.php:364
+#: inc/default-customizer.php:380 inc/default-customizer.php:1694
+#: inc/default-customizer.php:1713 inc/default-customizer.php:1732
+#: inc/default-customizer.php:1750 inc/default-customizer.php:1769
+#: inc/default-customizer.php:1919 inc/default-customizer.php:1937
+#: inc/default-customizer.php:1956 inc/default-customizer.php:1973
+#: inc/default-customizer.php:1992 inc/default-customizer.php:2370
+#: inc/default-customizer.php:2387 inc/default-customizer.php:2419
+msgid "Hide"
+msgstr ""
+
+#: inc/default-customizer.php:359
+msgid "Tablet/Mobile Header Top Left"
+msgstr ""
+
+#: inc/default-customizer.php:375
+msgid "Tablet/Mobile Header Top Right"
+msgstr ""
+
+#: inc/default-customizer.php:392
+msgid "Tablet/Mobile Nav Padding"
+msgstr ""
+
+#: inc/default-customizer.php:393
+msgid "Optional padding above/below the Navigation. Example: 20"
+msgstr ""
+
+#: inc/default-customizer.php:406
+msgid "Tablet/Mobile Logo Width"
+msgstr ""
+
+#: inc/default-customizer.php:407
+msgid "Optional logo width. Example: 180"
+msgstr ""
+
+#: inc/default-customizer.php:421
+msgid "Tablet/Mobile Logo Margin Top/Bottom"
+msgstr ""
+
+#: inc/default-customizer.php:422
+msgid "Optional logo margin. Example: 25"
+msgstr ""
+
+#: inc/default-customizer.php:436
+msgid "Fixed Header Options"
+msgstr ""
+
+#: inc/default-customizer.php:451
+msgid "Fixed Header"
+msgstr ""
+
+#: inc/default-customizer.php:452
+msgid "Disable Fixed Header"
+msgstr ""
+
+#: inc/default-customizer.php:464
+msgid "Fixed Header Background"
+msgstr ""
+
+#: inc/default-customizer.php:476
+msgid "Fixed Header Border Color"
+msgstr ""
+
+#: inc/default-customizer.php:489
+msgid "Fixed Header Shadow"
+msgstr ""
+
+#: inc/default-customizer.php:493 inc/default-customizer.php:1214
+#: inc/default-customizer.php:1614
+msgid "On"
+msgstr ""
+
+#: inc/default-customizer.php:494 inc/default-customizer.php:1215
+#: inc/default-customizer.php:1615
+msgid "Off"
+msgstr ""
+
+#: inc/default-customizer.php:508
+msgid "Fixed Logo"
+msgstr ""
+
+#: inc/default-customizer.php:520
+msgid "Fixed Logo Width (px)"
+msgstr ""
+
+#: inc/default-customizer.php:521 inc/default-customizer.php:539
+#: inc/default-customizer.php:557 inc/default-customizer.php:576
+msgid "Set option to 0 to ignore this field."
+msgstr ""
+
+#: inc/default-customizer.php:538
+msgid "Fixed Logo Margin Top (px)"
+msgstr ""
+
+#: inc/default-customizer.php:556
+msgid "Fixed Logo Margin Bottom (px)"
+msgstr ""
+
+#: inc/default-customizer.php:575
+msgid "Fixed Nav Padding Top/Bottom"
+msgstr ""
+
+#: inc/default-customizer.php:591
+msgid "Fixed Nav Font Color"
+msgstr ""
+
+#: inc/default-customizer.php:603
+msgid "Fixed Nav Font Hover Color"
+msgstr ""
+
+#: inc/default-customizer.php:614
+msgid "Fixed Nav Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:625
+msgid "Fixed Nav Hover Background"
+msgstr ""
+
+#: inc/default-customizer.php:640
+msgid "Header Social Icons"
+msgstr ""
+
+#: inc/default-customizer.php:653
+msgid "Icon Color"
+msgstr ""
+
+#: inc/default-customizer.php:668 inc/default-customizer.php:2926
+msgid "Facebook Icon"
+msgstr ""
+
+#: inc/default-customizer.php:681 inc/default-customizer.php:2942
+msgid "Twitter Icon"
+msgstr ""
+
+#: inc/default-customizer.php:694 inc/default-customizer.php:2958
+msgid "Instagram Icon"
+msgstr ""
+
+#: inc/default-customizer.php:706 inc/default-customizer.php:2970
+msgid "Spotify Icon"
+msgstr ""
+
+#: inc/default-customizer.php:718 inc/default-customizer.php:2985
+msgid "Youtube Icon"
+msgstr ""
+
+#: inc/default-customizer.php:730 inc/default-customizer.php:3001
+msgid "Vimeo Icon"
+msgstr ""
+
+#: inc/default-customizer.php:743 inc/default-customizer.php:3016
+msgid "RSS Icon"
+msgstr ""
+
+#: inc/default-customizer.php:756 inc/default-customizer.php:3032
+msgid "iTunes Podcast Icon"
+msgstr ""
+
+#: inc/default-customizer.php:769 inc/default-customizer.php:3048
+msgid "Android Icon"
+msgstr ""
+
+#: inc/default-customizer.php:782 inc/default-customizer.php:3065
+msgid "Google + Icon"
+msgstr ""
+
+#: inc/default-customizer.php:795 inc/default-customizer.php:3080
+msgid "Patreon Icon"
+msgstr ""
+
+#: inc/default-customizer.php:807 inc/default-customizer.php:3095
+msgid "Pinterest Icon"
+msgstr ""
+
+#: inc/default-customizer.php:819 inc/default-customizer.php:3110
+msgid "Soundcloud Icon"
+msgstr ""
+
+#: inc/default-customizer.php:831 inc/default-customizer.php:3125
+msgid "LinkedIn Icon"
+msgstr ""
+
+#: inc/default-customizer.php:843 inc/default-customizer.php:3140
+msgid "Snapchat Icon"
+msgstr ""
+
+#: inc/default-customizer.php:855 inc/default-customizer.php:3155
+msgid "Tumblr Icon"
+msgstr ""
+
+#: inc/default-customizer.php:867 inc/default-customizer.php:3170
+msgid "Flickr Icon"
+msgstr ""
+
+#: inc/default-customizer.php:880 inc/default-customizer.php:3186
+msgid "Dribbble Icon"
+msgstr ""
+
+#: inc/default-customizer.php:893 inc/default-customizer.php:3202
+msgid "VK Icon"
+msgstr ""
+
+#: inc/default-customizer.php:906 inc/default-customizer.php:3218
+msgid "WordPress Icon"
+msgstr ""
+
+#: inc/default-customizer.php:918 inc/default-customizer.php:3233
+msgid "MixCloud Icon"
+msgstr ""
+
+#: inc/default-customizer.php:931 inc/default-customizer.php:3249
+msgid "Behance Icon"
+msgstr ""
+
+#: inc/default-customizer.php:943 inc/default-customizer.php:3264
+msgid "GitHub Icon"
+msgstr ""
+
+#: inc/default-customizer.php:955 inc/default-customizer.php:3279
+msgid "Last.fm Icon"
+msgstr ""
+
+#: inc/default-customizer.php:967 inc/default-customizer.php:3294
+msgid "Medium Icon"
+msgstr ""
+
+#: inc/default-customizer.php:979 inc/default-customizer.php:3309
+msgid "Reddit Icon"
+msgstr ""
+
+#: inc/default-customizer.php:991 inc/default-customizer.php:3324
+msgid "Trip Advisor Icon"
+msgstr ""
+
+#: inc/default-customizer.php:1003 inc/default-customizer.php:3339
+msgid "Twitch Icon"
+msgstr ""
+
+#: inc/default-customizer.php:1015 inc/default-customizer.php:3354
+msgid "Yelp Icon"
+msgstr ""
+
+#: inc/default-customizer.php:1027
+msgid "Discord Icon"
+msgstr ""
+
+#: inc/default-customizer.php:1041 inc/default-customizer.php:3371
+msgid "E-mail Icon"
+msgstr ""
+
+#: inc/default-customizer.php:1054
+msgid "Heart Icon"
+msgstr ""
+
+#: inc/default-customizer.php:1073
+msgid "Navigation Alignment"
+msgstr ""
+
+#: inc/default-customizer.php:1078 inc/default-customizer.php:2610
+#: inc/default-customizer.php:2769 inc/default-customizer.php:3463
+msgid "Center"
+msgstr ""
+
+#: inc/default-customizer.php:1092 inc/default-customizer.php:1256
+msgid "Navigation Font Size"
+msgstr ""
+
+#: inc/default-customizer.php:1109
+msgid "Navigation Padding Top/Bottom"
+msgstr ""
+
+#: inc/default-customizer.php:1125
+msgid "Navigation Padding Left/Right"
+msgstr ""
+
+#: inc/default-customizer.php:1141
+msgid "Navigation Font Color"
+msgstr ""
+
+#: inc/default-customizer.php:1154
+msgid "Navigation Font Hover Color"
+msgstr ""
+
+#: inc/default-customizer.php:1166
+msgid "Navigation Item Background"
+msgstr ""
+
+#: inc/default-customizer.php:1167 inc/default-customizer.php:1179
+msgid "Remove background by clearing the color."
+msgstr ""
+
+#: inc/default-customizer.php:1178
+msgid "Navigation Item Background Hover"
+msgstr ""
+
+#: inc/default-customizer.php:1193
+msgid "Navigation Letter-Spacing (px)"
+msgstr ""
+
+#: inc/default-customizer.php:1210
+msgid "Search in Navigation"
+msgstr ""
+
+#: inc/default-customizer.php:1228
+msgid "Sub-Navigation Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:1242
+msgid "Sub-Navigation Border Top"
+msgstr ""
+
+#: inc/default-customizer.php:1272
+msgid "Sub-Navigation Letter-Spacing (px)"
+msgstr ""
+
+#: inc/default-customizer.php:1290
+msgid "Sub-Navigation Font Color"
+msgstr ""
+
+#: inc/default-customizer.php:1303
+msgid "Sub-Navigation Font Hover Color"
+msgstr ""
+
+#: inc/default-customizer.php:1319
+msgid "Sub-Navigation Divider Color"
+msgstr ""
+
+#: inc/default-customizer.php:1333
+msgid "Body"
+msgstr ""
+
+#: inc/default-customizer.php:1344
+msgid "Default Link Color"
+msgstr ""
+
+#: inc/default-customizer.php:1356
+msgid "Default Hover Link Color"
+msgstr ""
+
+#: inc/default-customizer.php:1372
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:1383
+msgid "Body Background Image"
+msgstr ""
+
+#: inc/default-customizer.php:1415
+msgid "Page Title Top Padding"
+msgstr ""
+
+#: inc/default-customizer.php:1431
+msgid "Page Title Bottom Padding"
+msgstr ""
+
+#: inc/default-customizer.php:1447
+msgid "Page Title Underline Color"
+msgstr ""
+
+#: inc/default-customizer.php:1460
+msgid "Page Title Background Image"
+msgstr ""
+
+#: inc/default-customizer.php:1490 inc/default-customizer.php:1870
+msgid "Page Title Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:1502 inc/default-customizer.php:1882
+msgid "Page Title Image Overlay"
+msgstr ""
+
+#: inc/default-customizer.php:1516
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:1528
+msgid "Sidebar Divider Color"
+msgstr ""
+
+#: inc/default-customizer.php:1539
+msgid "Post Archive Options"
+msgstr ""
+
+#: inc/default-customizer.php:1552
+msgid "Category Sidebar"
+msgstr ""
+
+#: inc/default-customizer.php:1558
+msgid "Hidden"
+msgstr ""
+
+#: inc/default-customizer.php:1571
+msgid "Post Columns"
+msgstr ""
+
+#: inc/default-customizer.php:1590
+msgid "Post Pagination"
+msgstr ""
+
+#: inc/default-customizer.php:1596
+msgid "Infinite Scroll"
+msgstr ""
+
+#: inc/default-customizer.php:1597 inc/default-customizer.php:2451
+msgid "Load More Button"
+msgstr ""
+
+#: inc/default-customizer.php:1610
+msgid "Masonry Layout"
+msgstr ""
+
+#: inc/default-customizer.php:1633
+msgid "Post Image Hover Effect"
+msgstr ""
+
+#: inc/default-customizer.php:1638
+msgid "Zoom"
+msgstr ""
+
+#: inc/default-customizer.php:1639
+msgid "Greyscale"
+msgstr ""
+
+#: inc/default-customizer.php:1640
+msgid "Sepia"
+msgstr ""
+
+#: inc/default-customizer.php:1641
+msgid "Saturate"
+msgstr ""
+
+#: inc/default-customizer.php:1642
+msgid "Shine"
+msgstr ""
+
+#: inc/default-customizer.php:1643
+msgid "No Effect"
+msgstr ""
+
+#: inc/default-customizer.php:1658
+msgid "Image Transparency on Hover"
+msgstr ""
+
+#: inc/default-customizer.php:1674
+msgid "Post Image Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:1708 inc/default-customizer.php:1951
+msgid "Date"
+msgstr ""
+
+#: inc/default-customizer.php:1727 inc/default-customizer.php:1968
+msgid "Duration"
+msgstr ""
+
+#: inc/default-customizer.php:1745
+msgid "Comment Count"
+msgstr ""
+
+#: inc/default-customizer.php:1785
+msgid "Minimum Post Background Height"
+msgstr ""
+
+#: inc/default-customizer.php:1803
+msgid "Post Title Area Top Padding"
+msgstr ""
+
+#: inc/default-customizer.php:1821
+msgid "Post Title Area Bottom Padding"
+msgstr ""
+
+#: inc/default-customizer.php:1840
+msgid "Post Title Background Image"
+msgstr ""
+
+#: inc/default-customizer.php:1896
+msgid "Post Post Sidebar"
+msgstr ""
+
+#: inc/default-customizer.php:1902 inc/default-customizer.php:2342
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/default-customizer.php:1914
+msgid "Display Comment Area?"
+msgstr ""
+
+#: inc/default-customizer.php:2013
+msgid "Button Font Size"
+msgstr ""
+
+#: inc/default-customizer.php:2029
+msgid "Button Font Color"
+msgstr ""
+
+#: inc/default-customizer.php:2041
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:2055
+msgid "Button Hover Font Color"
+msgstr ""
+
+#: inc/default-customizer.php:2067
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:2079
+msgid "Show Settings"
+msgstr ""
+
+#: inc/default-customizer.php:2086
+msgid "Show Post"
+msgstr ""
+
+#: inc/default-customizer.php:2099
+msgid "Show Title Area Background Image"
+msgstr ""
+
+#: inc/default-customizer.php:2128
+msgid "Show Title Area Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:2140
+msgid "Show Title Area Image Overlay"
+msgstr ""
+
+#: inc/default-customizer.php:2151
+msgid "Show Website Button Background"
+msgstr ""
+
+#: inc/default-customizer.php:2162
+msgid "Show Website Button Color"
+msgstr ""
+
+#: inc/default-customizer.php:2173
+msgid "Show Website Border Color"
+msgstr ""
+
+#: inc/default-customizer.php:2184
+msgid "Show Website Button Hover Background"
+msgstr ""
+
+#: inc/default-customizer.php:2195
+msgid "Show Website Button Hover Color"
+msgstr ""
+
+#: inc/default-customizer.php:2206
+msgid "Show Subscribe Button Background"
+msgstr ""
+
+#: inc/default-customizer.php:2217
+msgid "Show Subscribe Button Color"
+msgstr ""
+
+#: inc/default-customizer.php:2228
+msgid "Show Subscribe Border Color"
+msgstr ""
+
+#: inc/default-customizer.php:2239
+msgid "Show Subscribe Button Hover Background"
+msgstr ""
+
+#: inc/default-customizer.php:2250
+msgid "Show Subscribe Button Hover Color"
+msgstr ""
+
+#: inc/default-customizer.php:2262
+msgid "Show Title Area Social Icons Color"
+msgstr ""
+
+#: inc/default-customizer.php:2275
+msgid "Show Title Area Top Padding"
+msgstr ""
+
+#: inc/default-customizer.php:2293
+msgid "Show Title Area Bottom Padding"
+msgstr ""
+
+#: inc/default-customizer.php:2308
+msgid "Minimum Show Title Area Height"
+msgstr ""
+
+#: inc/default-customizer.php:2323
+msgid "Show Content Area Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:2353
+msgid "Episode List Content Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:2365
+msgid "Episode List Meta"
+msgstr ""
+
+#: inc/default-customizer.php:2382
+msgid "Episode List Excerpt"
+msgstr ""
+
+#: inc/default-customizer.php:2398
+msgid "Episode List Excerpt Word Count"
+msgstr ""
+
+#: inc/default-customizer.php:2414
+msgid "Episode List Read More Button"
+msgstr ""
+
+#: inc/default-customizer.php:2431
+msgid "Episode List: Posts Per Page"
+msgstr ""
+
+#: inc/default-customizer.php:2447
+msgid "Episode List: Pagination Type"
+msgstr ""
+
+#: inc/default-customizer.php:2452
+msgid "Default Pagination"
+msgstr ""
+
+#: inc/default-customizer.php:2468
+msgid "Footer"
+msgstr ""
+
+#: inc/default-customizer.php:2475
+msgid "Footer Page Builder"
+msgstr ""
+
+#: inc/default-customizer.php:2500
+msgid "Footer Elementor Template"
+msgstr ""
+
+#: inc/default-customizer.php:2501
+msgid "You can add/edit your footer under "
+msgstr ""
+
+#: inc/default-customizer.php:2512
+msgid "Footer Width"
+msgstr ""
+
+#: inc/default-customizer.php:2519
+msgid "Full Width"
+msgstr ""
+
+#: inc/default-customizer.php:2533
+msgid "Footer Background"
+msgstr ""
+
+#: inc/default-customizer.php:2547
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/default-customizer.php:2582
+msgid "Footer Navigation Location"
+msgstr ""
+
+#: inc/default-customizer.php:2589 inc/default-customizer.php:2748
+msgid "Top"
+msgstr ""
+
+#: inc/default-customizer.php:2590 inc/default-customizer.php:2749
+msgid "Middle"
+msgstr ""
+
+#: inc/default-customizer.php:2591 inc/default-customizer.php:2750
+msgid "Bottom"
+msgstr ""
+
+#: inc/default-customizer.php:2602
+msgid "Footer Navigation Alignment"
+msgstr ""
+
+#: inc/default-customizer.php:2639
+msgid "Footer Widget Count"
+msgstr ""
+
+#: inc/default-customizer.php:2662
+msgid "Footer Widget Margin Top"
+msgstr ""
+
+#: inc/default-customizer.php:2682
+msgid "Footer Widget Margin Bottom"
+msgstr ""
+
+#: inc/default-customizer.php:2725
+msgid "Footer Icons"
+msgstr ""
+
+#: inc/default-customizer.php:2741
+msgid "Footer Icon Location"
+msgstr ""
+
+#: inc/default-customizer.php:2761
+msgid "Footer Icon Alignment"
+msgstr ""
+
+#: inc/default-customizer.php:2784
+msgid "Icon Size"
+msgstr ""
+
+#: inc/default-customizer.php:2803
+msgid "Icon Margin Top"
+msgstr ""
+
+#: inc/default-customizer.php:2822
+msgid "Icon Margin Bottom"
+msgstr ""
+
+#: inc/default-customizer.php:2842
+msgid "Icon Margin Left/Right"
+msgstr ""
+
+#: inc/default-customizer.php:2865
+msgid "Footer Icon Color"
+msgstr ""
+
+#: inc/default-customizer.php:2882
+msgid "Footer Icon Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:2897
+msgid "Footer Icon Hover Color"
+msgstr ""
+
+#: inc/default-customizer.php:2909
+msgid "Footer Icon Hover Background"
+msgstr ""
+
+#: inc/default-customizer.php:3407
+msgid "Copyright Background"
+msgstr ""
+
+#: inc/default-customizer.php:3424
+msgid "Copyright Link Color"
+msgstr ""
+
+#: inc/default-customizer.php:3439
+msgid "Copyright Link Hover Color"
+msgstr ""
+
+#: inc/default-customizer.php:3455
+msgid "Copyright Text Alignment"
+msgstr ""
+
+#: inc/default-customizer.php:3479
+msgid "Copyright Padding Top"
+msgstr ""
+
+#: inc/default-customizer.php:3499
+msgid "Copyright Padding Bottom"
+msgstr ""
+
+#: inc/default-customizer.php:3528
+msgid "Posts"
+msgstr ""
+
+#: inc/default-customizer.php:3539
+msgid "Content Background"
+msgstr ""
+
+#: inc/default-customizer.php:3550
+msgid "Content Border Color"
+msgstr ""
+
+#: inc/default-customizer.php:3564
+msgid "Title Color"
+msgstr ""
+
+#: inc/default-customizer.php:3577
+msgid "Title Hover Color"
+msgstr ""
+
+#: inc/default-customizer.php:3589
+msgid "Media Player"
+msgstr ""
+
+#: inc/default-customizer.php:3594
+msgid "Default Player Style"
+msgstr ""
+
+#: inc/default-customizer.php:3607
+msgid "Main Player Background"
+msgstr ""
+
+#: inc/default-customizer.php:3608 inc/default-customizer.php:3623
+#: inc/default-customizer.php:3637 inc/default-customizer.php:3651
+#: inc/default-customizer.php:3680
+msgid "This setting apply to the default WordPress media player"
+msgstr ""
+
+#: inc/default-customizer.php:3621
+msgid "Progressed Background Color"
+msgstr ""
+
+#: inc/default-customizer.php:3636
+msgid "Time/Volume Knob Background"
+msgstr ""
+
+#: inc/default-customizer.php:3650
+msgid "Runtime Text Color"
+msgstr ""
+
+#: inc/default-customizer.php:3662
+msgid "Runtime Text Size"
+msgstr ""
+
+#: inc/default-customizer.php:3679
+msgid "Audio Icon Color"
+msgstr ""
+
+#: inc/default-customizer.php:3693
+msgid "Additional Icon Color"
+msgstr ""
+
+#: inc/default-customizer.php:3694
+msgid "Play in new window / download icons"
+msgstr ""
+
+#: inc/js-customizer.php:59 inc/js-customizer.php:165 inc/js-customizer.php:283
+msgid "No more posts"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:453
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:599
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:604
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:713
+msgid "Welcome"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:720
+msgid "Child"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:726
+msgid "License"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:734
+msgid "Plugins"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:742 inc/merlin/class-merlin.php:1982
+msgid "Content"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:748
+msgid "Ready"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:853
+msgid "The welcome step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:947
+msgid "The license activation step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1017
+msgid "The child theme installation step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1104
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1105
+msgid "req"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1145
+msgid "The plugin installation step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1191
+msgid "Select Demo"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1229
+msgid "The content import step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1309
+msgid "The final step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1386
+msgid "The existing child theme was activated"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1403
+msgid "The newly generated child theme was activated"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1424
+msgid ""
+"Yikes! The theme activation failed. Please try again or contact support."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1433
+msgid "Please add your license key before attempting to activate one."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1446
+msgid "The license activation was performed with the following results"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1492 inc/merlin/class-merlin.php:1533
+#: inc/secondline-theme-updater/theme-updater-admin.php:272
+#: inc/secondline-theme-updater/theme-updater-admin.php:319
+#: inc/secondline-theme-updater/theme-updater-admin.php:372
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1505
+#: inc/secondline-theme-updater/theme-updater-admin.php:286
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1511
+#: inc/secondline-theme-updater/theme-updater-admin.php:293
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1515
+msgid ""
+"This appears to be an invalid license key. Please try again or contact "
+"support."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1520
+#: inc/secondline-theme-updater/theme-updater-admin.php:304
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1525
+#: inc/secondline-theme-updater/theme-updater-admin.php:309
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1529
+#: inc/secondline-theme-updater/theme-updater-admin.php:314
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1623
+msgid "The child theme functions.php content was generated"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1654
+msgid "The child theme style.css content was generated"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1688
+msgid ""
+"The child theme screenshot was copied to the child theme, with the following "
+"result"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1690
+msgid "The child theme screenshot was not generated, because of these results"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1719
+msgid "Activating"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1735
+msgid "Updating"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1751 inc/merlin/class-merlin.php:1767
+#: inc/merlin/class-merlin.php:1985 inc/merlin/class-merlin.php:1998
+#: inc/merlin/class-merlin.php:2011 inc/merlin/class-merlin.php:2024
+#: inc/merlin/class-merlin.php:2037 inc/merlin/class-merlin.php:2050
+#: inc/merlin/class-merlin.php:2093
+msgid "Installing"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1759
+msgid "A plugin with the following data will be processed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1771
+msgid "A plugin with the following data was processed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1780 inc/merlin/class-merlin.php:1986
+#: inc/merlin/class-merlin.php:1999 inc/merlin/class-merlin.php:2012
+#: inc/merlin/class-merlin.php:2025 inc/merlin/class-merlin.php:2038
+#: inc/merlin/class-merlin.php:2051
+msgid "Success"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1803
+msgid ""
+"The content importer AJAX call failed to start, because of incorrect data"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1808
+msgid "Invalid content!"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1819
+msgid "The content import AJAX call will be executed with this import data"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1861
+msgid "The content import AJAX call failed with this passed data"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1872
+#: inc/secondline-theme-updater/theme-updater-admin.php:241
+msgid "Error"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1886
+msgid ""
+"The content importer AJAX call for retrieving total content import items "
+"failed to start, because of incorrect data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1891
+msgid "Invalid data!"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1983
+msgid "Demo content data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1984 inc/merlin/class-merlin.php:1997
+#: inc/merlin/class-merlin.php:2010 inc/merlin/class-merlin.php:2023
+#: inc/merlin/class-merlin.php:2036 inc/merlin/class-merlin.php:2049
+msgid "Pending"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1995
+msgid "Widgets"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1996
+msgid "Sample widgets data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2008
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2009
+msgid "Sample Revolution sliders data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2021
+msgid "Options"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2022
+msgid "Sample theme options data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2034
+msgid "Redux Options"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2035
+msgid "Redux framework options."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2047
+msgid "After import setup"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2048
+msgid "After import setup."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2077
+msgid "The revolution slider import was executed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2114
+msgid "The home page was set"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2124
+msgid "The blog page was set"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2139
+msgid "The Hello world post status was set to draft"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:2163
+msgid ""
+"This predefined demo import does not have the name parameter: "
+"import_file_name"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:30
+msgid "The customizer import has finished successfully"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:57
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:70
+msgid ""
+"Error: The customizer import file does not have any content in it. Please "
+"make sure to use the correct customizer import file."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:80
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:86
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-downloader.php:49
+msgid "The file was not able to save to disk, while trying to download it"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-downloader.php:66
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-downloader.php:84
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-redux-importer.php:32
+msgid "The Redux Framework data was imported"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:72
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:83
+msgid "Error: Widget import file does not have any content in it."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:105
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:144
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:165
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:198
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:256
+msgid "Imported"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:260
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:266
+msgid "No Title"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:328
+msgid "No results for widget import!"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:38
+msgid "Theme Setup Wizard"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:41
+#, php-format
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:42
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:43
+msgid "Disable this wizard"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:45 inc/merlin/merlin-config.php:54
+msgid "Skip"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:46
+msgid "Next"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:47
+msgid "Start"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:48
+msgid "Cancel"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:49 inc/merlin/merlin-config.php:50
+#: inc/merlin/merlin-config.php:51
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:52
+msgid "Import"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:53
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:57
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:59
+#, php-format
+msgid "%s is Activated"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:61
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:62
+msgid "License key"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:63
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:64
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:65
+msgid "Need help?"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:68
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:69
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:70
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"is optional & should take only a few minutes."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:71
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:73
+msgid "Install Child Theme"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:74
+msgid "You're good to go!"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:75
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:76
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:77
+msgid "Learn about child themes"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:78
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:79
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:81
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+#: inc/tgm-plugin-activation/plugin-activation.php:149
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:82
+msgid "You're up to speed!"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:83
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:84
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press \"Next"
+"\" to continue the setup wizard."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:85 inc/merlin/merlin-config.php:89
+msgid "Advanced"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:87
+msgid "Import Content"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:88
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:91
+msgid "All done. Have fun!"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:94
+#, php-format
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:95
+msgid "More Info"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:96
+msgid "View your website"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:97
+msgid "Read the Documentation"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:98
+msgid "Get Theme Support"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:99
+msgid "Start Customizing"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:55
+msgid ""
+"The XMLReader class is missing! Please install the XMLReader PHP extension "
+"on your server"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:68
+msgid "Could not open the XML file for parsing!"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:248
+msgid "Content import start error: "
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:280
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:173
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:291
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:364
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:504
+msgid "New AJAX call!"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:135
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:514
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:577
+msgid "Invalid author mapping"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:678
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:770
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:780
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:858
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:872
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:904
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1822
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:909
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:949
+#, php-format
+msgid "Failed to import term: %s - %s"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1094
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1593
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1614
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1618
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1783
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1827
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1886
+#, php-format
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1895
+#, php-format
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1947
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1969
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1975
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2000
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2013
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2018
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2032
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2037
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2063
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2074
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2119
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2124
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2146
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2150
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2164
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2168
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2185
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2216
+#, php-format
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2226
+#, php-format
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2236
+#, php-format
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2244
+#, php-format
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2258
+#, php-format
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2277
+#, php-format
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2287
+#, php-format
+msgid "Term %d was successfully updated with parent %d"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2322
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2331
+#, php-format
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater-admin.php:298
+msgid "Invalid license."
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:30
+msgid "Theme License"
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:31
+msgid "Enter your theme license key."
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:32
+msgid "License Key"
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:33
+msgid "License Action"
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:34
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:35
+msgid "Activate License"
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:36
+#: inc/secondline-theme-updater/theme-updater.php:49
+msgid "License status is unknown."
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:37
+msgid "Renew?"
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:38
+msgid "unlimited"
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:39
+msgid "License key is active."
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:40
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:41
+msgid "Lifetime License."
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:42
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:43
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:44
+msgid "License key has expired."
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:45
+msgid "License keys do not match."
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:46
+msgid "License is inactive."
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:47
+msgid "License key is disabled."
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:48
+msgid "Site is inactive."
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:50
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: inc/secondline-theme-updater/theme-updater.php:51
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: inc/template-tags.php:57
+msgid "Menu"
+msgstr ""
+
+#: inc/template-tags.php:198 inc/template-tags.php:229
+#: template-parts/content-single-show.php:115
+#: template-parts/content-single-show.php:129
+msgid "&lsaquo;"
+msgstr ""
+
+#: inc/template-tags.php:199 inc/template-tags.php:230
+#: template-parts/content-single-show.php:130
+msgid "&rsaquo;"
+msgstr ""
+
+#: inc/template-tags.php:258 template-parts/content-single-show.php:116
+msgid "Load More"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+#: inc/tgm-plugin-activation/plugin-activation.php:148
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:337
+#: inc/tgm-plugin-activation/plugin-activation.php:150
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:340
+#: inc/tgm-plugin-activation/plugin-activation.php:151
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+#: inc/tgm-plugin-activation/plugin-activation.php:153
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:349
+#: inc/tgm-plugin-activation/plugin-activation.php:158
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:355
+#: inc/tgm-plugin-activation/plugin-activation.php:168
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:361
+#: inc/tgm-plugin-activation/plugin-activation.php:173
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:367
+#: inc/tgm-plugin-activation/plugin-activation.php:183
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:373
+#: inc/tgm-plugin-activation/plugin-activation.php:188
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:378
+#: inc/tgm-plugin-activation/plugin-activation.php:198
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:383
+#: inc/tgm-plugin-activation/plugin-activation.php:203
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/plugin-activation.php:208
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#: inc/tgm-plugin-activation/plugin-activation.php:212
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:920
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2626
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3252
+#: inc/tgm-plugin-activation/plugin-activation.php:213
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3045
+#: inc/tgm-plugin-activation/plugin-activation.php:214
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: inc/tgm-plugin-activation/plugin-activation.php:215
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#: inc/tgm-plugin-activation/plugin-activation.php:216
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#: inc/tgm-plugin-activation/plugin-activation.php:217
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+#: inc/tgm-plugin-activation/plugin-activation.php:218
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1027
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1214
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:27
+msgid "Seriously Simple Podcasting"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:69
+msgid "SecondLine Custom Addons - Tusant"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:77
+msgid "Podcast Subscribe Buttons"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:83
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:89
+msgid "CMB2"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:95
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:101
+msgid "Easy Google Fonts"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:107
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:113
+msgid "WPForms Lite"
+msgstr ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:163
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:178
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin-activation/plugin-activation.php:193
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: index.php:36
+msgid "Latest News"
+msgstr ""
+
+#: search.php:14
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:13
+msgid "Submit"
+msgstr ""
+
+#: template-parts/author-info.php:11
+msgid "Edit Profile"
+msgstr ""
+
+#: template-parts/author-info.php:20
+msgid "About the Author"
+msgstr ""
+
+#: template-parts/content-none.php:8
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:13
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:17 template-parts/content-single.php:179
+#: template-parts/content.php:147
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-show.php:32
+#: template-parts/elementor/content-carousel.php:31
+#: template-parts/elementor/content-show-grid.php:33
+#: template-parts/post-title/title-show-post.php:31
+#: template-parts/post-title/title-show.php:27
+msgid "Hosted By"
+msgstr ""
+
+#: template-parts/content-show.php:63
+msgid "View Show"
+msgstr ""
+
+#: template-parts/content-single-show.php:25
+msgid "All Episodes"
+msgstr ""
+
+#: template-parts/content-single.php:87 template-parts/content.php:89
+#: template-parts/elementor/content-single-post.php:95
+#: template-parts/elementor/content-slider.php:54
+#: template-parts/elementor/content.php:104
+#: template-parts/post-title/title-default.php:64
+#: template-parts/shows/content-show-page.php:71
+msgid "0 Comments"
+msgstr ""
+
+#: template-parts/content-single.php:87 template-parts/content.php:89
+#: template-parts/elementor/content-single-post.php:95
+#: template-parts/elementor/content-slider.php:54
+#: template-parts/elementor/content.php:104
+#: template-parts/post-title/title-default.php:64
+#: template-parts/shows/content-show-page.php:71
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/content-single.php:87 template-parts/content.php:89
+#: template-parts/elementor/content-single-post.php:95
+#: template-parts/elementor/content-slider.php:54
+#: template-parts/elementor/content.php:104
+#: template-parts/post-title/title-default.php:64
+#: template-parts/shows/content-show-page.php:71
+msgid "% Comments"
+msgstr ""
+
+#: template-parts/content.php:99 template-parts/shows/content-show-page.php:83
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content.php:159
+#: template-parts/elementor/content-show-grid.php:75
+#: template-parts/elementor/content.php:171
+msgid "FEATURED"
+msgstr ""
+
+#: template-parts/post-title/title-show-post.php:39
+#: template-parts/post-title/title-show.php:32
+msgid "Website"
+msgstr ""
+
+#: template-parts/post-title/title-show-post.php:42
+#: template-parts/post-title/title-show.php:35
+msgid "Subscribe"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Tusant SecondLine"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://tusant.secondlinethemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Podcast & Music Streaming Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SecondLineThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://secondlinethemes.com/"
+msgstr ""
